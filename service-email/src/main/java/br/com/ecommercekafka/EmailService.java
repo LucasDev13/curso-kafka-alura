@@ -1,9 +1,7 @@
 package br.com.ecommercekafka;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
-
 import java.util.HashMap;
-import java.util.Map;
 
 public class EmailService {
     public static void main(String[] args) {
